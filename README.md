@@ -9,7 +9,7 @@
 </p>
 
 
-![teaser figure](./assets/teaser.png)
+![pipeline figure](./assets/pipeline.png)
 
 ## To Do
 
