@@ -9,6 +9,8 @@ Label-Free 3D Perception from Infrastructure</strong></h1>
 </p>
 
 
+![teaser figure](./assets/teaser.png)
+
 ## To Do
 
 - [ ] Data generation
