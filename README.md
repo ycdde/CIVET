@@ -1,7 +1,8 @@
 
 
-<h1 style="font-size: 100 pt;" align=center><strong>When the City Teaches the Car:
-Label-Free 3D Perception from Infrastructure</strong></h1>
+<h1 style="font-size: 100 pt;" align=center><strong>When the City Teaches the Car: 
+    Label-Free 3D Perception from Infrastructure</strong></h1>
+
 
 <p align="center">
 📖 <a href="https://arxiv.org/abs/2603.16742">Paper</a> |
