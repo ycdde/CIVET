@@ -13,13 +13,10 @@
 
 ## To Do
 
+- [ ] Environment setup
 - [ ] Data generation
 - [ ] Training code
 - [ ] Dataset release
-
-## Data Generation
-
-## Training
 
 ## Acknowledgments
 
