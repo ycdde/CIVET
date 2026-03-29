@@ -15,14 +15,13 @@ Label-Free 3D Perception from Infrastructure</strong></h1>
 - [ ] Training code
 - [ ] Dataset release
 
+## Data Generation
+
+## Training
+
 ## Acknowledgments
 
 This work builds upon the following repositories:
 
 - [Carla leaderboard](https://github.com/carla-simulator/leaderboard)
 - [V2Xverse](https://github.com/CollaborativePerception/V2Xverse)
-
-## Data Generation
-
-## Training
-
